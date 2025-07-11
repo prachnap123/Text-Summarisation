@@ -64,12 +64,6 @@ Uses common summarization datasets like:
 - NLTK, spaCy
 - Jupyter Notebook
 
----
 
-## 🚀 Usage
 
-```bash
-git clone https://github.com/your-username/text-summarisation.git
-cd text-summarisation
-jupyter notebook TextSummarisation.ipynb
 
